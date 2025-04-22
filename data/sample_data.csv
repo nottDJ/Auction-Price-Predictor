@@ -1,0 +1,3 @@
+brand | age | battery_health | storage | condition | accessories | price
+Apple | 2 | 87 | 128GB | Good | ['Charger', 'Box'] | 21000
+Samsung | 3 | 82 | 64GB | Fair | ['Box'] | 11000
